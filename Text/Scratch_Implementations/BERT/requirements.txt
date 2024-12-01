@@ -1,0 +1,8 @@
+kaggle
+pandas 
+numpy
+plotly
+nbformat
+seaborn
+torch
+scikit-learn
